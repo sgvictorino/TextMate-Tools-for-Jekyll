@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>---
+title: "$0"
+date: `current_date_time="\`date "+%Y-%m-%d %H:%M:%S"\`"; echo $current_date_time;`
+---
+
+$1
+</string>
+	<key>keyEquivalent</key>
+	<string>^p</string>
+	<key>name</key>
+	<string>New Post</string>
+	<key>uuid</key>
+	<string>AF45618F-5207-4E18-A7A9-7978BCC022CE</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string></string>
+	<key>contactName</key>
+	<string>Solomon Victorino</string>
+	<key>description</key>
+	<string>Some snippets for writing Markdown for Jekyll.</string>
+	<key>name</key>
+	<string>Jekyll Blogging</string>
+	<key>uuid</key>
+	<string>0DB8D879-3E92-4E43-9639-9BC084758A64</string>
+</dict>
+</plist>
