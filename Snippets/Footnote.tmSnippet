@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;a class="anchor" id="${1:number}"&gt;&lt;/a&gt;&lt;sup&gt;$1&lt;/sup&gt;${TM_SELECTED_TEXT:${0:notes}}[⏎](#${1:number}-text)
+	<string>&lt;a class="anchor" id="${1:number}"&gt;&lt;/a&gt;&lt;sup&gt;$1&lt;/sup&gt; ${TM_SELECTED_TEXT:${0:notes}} [⏎](#${1:number}-text)
 </string>
 	<key>keyEquivalent</key>
 	<string>^f</string>
